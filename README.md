@@ -1,4 +1,4 @@
-me Welcome to readme-workflows.github.io
+me. Welcome to readme-workflows.github.io
 > Website of Readme-Workflows organisation
 
 ## Contributing
